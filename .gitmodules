@@ -1,0 +1,3 @@
+[submodule "themes/metro-light"]
+	path = themes/metro-light
+	url = git@github.com:denghongcai/metro-light.git
